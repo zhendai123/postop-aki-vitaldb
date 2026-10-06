@@ -1,0 +1,6 @@
+akiml_data/
+*.csv
+*.parquet
+*.zip
+__pycache__/
+*.ipynb_checkpoints
